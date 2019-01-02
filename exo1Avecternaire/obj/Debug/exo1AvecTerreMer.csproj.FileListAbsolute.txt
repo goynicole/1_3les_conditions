@@ -1,0 +1,6 @@
+C:\Users\Moi\Desktop\les conditions\lesConditions\exo1AvecTerreMer\obj\Debug\exo1AvecTerreMer.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\les conditions\lesConditions\exo1AvecTerreMer\bin\Debug\exo1AvecTerreMer.exe.config
+C:\Users\Moi\Desktop\les conditions\lesConditions\exo1AvecTerreMer\bin\Debug\exo1AvecTerreMer.exe
+C:\Users\Moi\Desktop\les conditions\lesConditions\exo1AvecTerreMer\bin\Debug\exo1AvecTerreMer.pdb
+C:\Users\Moi\Desktop\les conditions\lesConditions\exo1AvecTerreMer\obj\Debug\exo1AvecTerreMer.exe
+C:\Users\Moi\Desktop\les conditions\lesConditions\exo1AvecTerreMer\obj\Debug\exo1AvecTerreMer.pdb

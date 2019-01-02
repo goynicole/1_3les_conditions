@@ -1,0 +1,7 @@
+C:\Users\Moi\Desktop\les conditions\lesConditions\exo3\obj\Debug\exo3.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\les conditions\lesConditions\exo3\bin\Debug\exo3.exe.config
+C:\Users\Moi\Desktop\les conditions\lesConditions\exo3\bin\Debug\exo3.exe
+C:\Users\Moi\Desktop\les conditions\lesConditions\exo3\bin\Debug\exo3.pdb
+C:\Users\Moi\Desktop\les conditions\lesConditions\exo3\obj\Debug\exo3.exe
+C:\Users\Moi\Desktop\les conditions\lesConditions\exo3\obj\Debug\exo3.pdb
+C:\Users\Moi\Desktop\les conditions\lesConditions\exo3\obj\Debug\exo3.csprojAssemblyReference.cache
